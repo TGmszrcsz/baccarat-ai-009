@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：数据范围
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 008 篇 - 百家乐Ai预测分析工具：识别历史回填与实时新增的不同含义](https://github.com/TGmszrcsz/baccarat-ai-008) ｜ [下一篇：第 010 篇 - 百家乐Ai预测分析工具：为每份分析结果附上可复查的数据说明](https://github.com/TGmszrcsz/baccarat-ai-010)
+
+<!-- article-chain:end -->
+
 面板从较大数字回到零，原因尚不明确。本篇围绕“当页面总数重置时怎样保留上下文”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、为什么值得单独检查
